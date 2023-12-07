@@ -1,0 +1,14 @@
+{
+  "name": "jest_testing",
+  "version": "1.0.0",
+  "description": "for unit testing course",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "author": "omar",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
